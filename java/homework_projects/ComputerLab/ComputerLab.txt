@@ -1,0 +1,54 @@
+Building ComputerLab 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+--- exec-maven-plugin:3.0.0:exec (default-cli) @ ComputerLab ---
+1 1: Empty 2: Empty 3: Empty 4: Empty 5: Empty 
+1 1: Empty 2: Empty 3: Empty 4: Empty 5: Empty 6: Empty 
+1 1: Empty 2: Empty 3: Empty 4: Empty
+1 1: Empty 2: Empty 3: Empty 
+MAIN MENU 
+0) Quit
+1) Simulate login
+2) Simulate logoff
+3) Search
+1
+Enter the 5 digit ID number of the user logging in:
+12345
+Enter the lab number the user is logging in from (1-4)
+2
+Enter computer station number the user is logging in to (1-4):
+3
+1  1: Empty  2: Empty  3: Empty  4: Empty  5: Empty  
+1  1: Empty  2: Empty  3: 12345  4: Empty  5: Empty  6: Empty  
+1  1: Empty  2: Empty  3: Empty  4: Empty 
+1  1: Empty  2: Empty  3: Empty  
+MAIN MENU 
+0) Quit
+1) Simulate login
+2) Simulate logoff
+3) Search
+3
+Enter the 5 digit ID number of the user to find:
+12345
+Lab Number: 2, Station Number: 3
+MAIN MENU 
+0) Quit
+1) Simulate login
+2) Simulate logoff
+3) Search
+2
+Enter the 5 digit ID number of the user logged off:
+12345
+1  1: Empty  2: Empty  3: Empty  4: Empty  5: Empty  
+1  1: Empty  2: Empty  3: Empty  4: Empty  5: Empty  6: Empty  
+1  1: Empty  2: Empty  3: Empty  4: Empty 
+1  1: Empty  2: Empty  3: Empty  
+MAIN MENU 
+0) Quit
+1) Simulate login
+2) Simulate logoff
+3) Search
+0
+Thank you! looking forward to see you agin.
+------------------------------------------------------------------------
+BUILD SUCCESS

@@ -1,0 +1,14 @@
+Scanning for projects...
+
+--------------------< com.mycompany:FileProcessing >--------------------
+Building FileProcessing 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+--- exec-maven-plugin:3.0.0:exec (default-cli) @ FileProcessing ---
+please include name of the file?
+data.txt
+Total number of vowels in your document: 404
+Total number of words in your document: 179
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
